@@ -1,3 +1,3 @@
 print("Hello!")
 
-text = "Ема ты дал"
+text = "nice"
