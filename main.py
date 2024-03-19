@@ -209,7 +209,7 @@ class PlayerCharacter(Entity):
             self.cur_texture = 0
         self.texture = self.walk_textures[self.cur_texture][self.facing_direction]
 
-
+#---------------------------------------------------------------------------------------------------------------
 class MainMenu(arcade.View):
     """Class that manages the 'menu' view."""
 
@@ -653,10 +653,9 @@ class GameView(arcade.View):
         # Position the camera
         self.center_camera_to_player()
 
-
+#----------------------------------------------------------------------
 class GameOverView(arcade.View):
     """Class to manage the game overview"""
-
     def on_show_view(self):
         """Called when switching to this view"""
         arcade.set_background_color(arcade.color.BLACK)
@@ -672,6 +671,8 @@ class GameOverView(arcade.View):
             30,
             anchor_x="center",
         )
+
+
 
     def on_mouse_press(self, _x, _y, _button, _modifiers):
         """Use a mouse press to advance to the 'game' view."""
