@@ -1,8 +1,9 @@
-# This-is-the-dungeon
-A game for programmers that will allow you to reach a new level.
 
-
-А simple programming game. You write Python scripts to control your bot. The goal is to collect as much gold as possible.
+<p align="center">
+  <img src="https://github.com/P1trusHka/The-Sound/blob/main/Logo2.0.png"  height="160" width="160" />
+</p>
+<h1 align="center">Halls of Darkness</h1></li>
+<p align="center"> A game for real 2D lovers </p>
 
 The game uses only the Python standard library. 
 
