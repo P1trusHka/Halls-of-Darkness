@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/Halls_of_Darkness_logo"  height="160" width="160" />
+  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/photo_2024-03-22_11-21-21.jpg"  height="160" width="160" />
 </p>
 <h1 align="center"> Halls of Darkness  </h1></li>
 <p align="center"> A game for real 2D lovers </p>
