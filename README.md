@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/photo_2024-03-22_11-21-21.jpg"  height="160" width="160" />
+  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/New-branch-1/Logo_new.jpg"  height="180" width="180" />
 </p>
 
 <h1 align="center"> Halls of Darkness  </h1></li>
