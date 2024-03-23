@@ -2,7 +2,7 @@
   <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/logo_new.jpg"  height="180" width="180" />
 </p>
 
-<h1 align="center"> Halls of Darkness  </h1></li>
+<h1 align="center"> Fate </h1></li>
  A game for real 2D lovers.
 
 ## intoduction
