@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/New-branch-1/Logo_new.jpg"  height="180" width="180" />
+  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/logo_new.jpg"  height="180" width="180" />
 </p>
 
 <h1 align="center"> Halls of Darkness  </h1></li>
- A game for real 2D lovers
+ A game for real 2D lovers.
 
 ## intoduction
-
+A small game for fans of 2 d. Each pixel decides a person's fate.
 ## Preview
-
+<p align="center">
+  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/preview1.png" />
+</p>
+  
 ## Usage
 
 ## Architecture
