@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/P1trusHka/Halls-of-Darkness/blob/master/logo_new.jpg"  height="180" width="180" />
+  <img src="https://github.com/P1trusHka/Fate/blob/master/logo.png"  height="180" width="180" />
 </p>
 
 <h1 align="center"> Fate </h1></li>
